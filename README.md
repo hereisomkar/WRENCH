@@ -4,9 +4,8 @@ SSTIemulator
 [![Version 1.0](https://img.shields.io/badge/version-1.0-green.svg?logo=github)](https://github.com/Wrench/sstimap)
 [![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg?logo=python)](https://www.python.org/downloads/release/python-3130/)
 [![Python 3.6](https://img.shields.io/badge/python-3.6+-yellow.svg?logo=python)](https://www.python.org/downloads/release/python-360/)
-[![GitHub](https://img.shields.io/github/license/Wrench/sstimap?color=green&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.txt)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Wrench/sstimap?color=green&logo=github)](https://github.com/Wrench/sstimap/commits/)
-[![Maintenance](https://img.shields.io/maintenance/yes/2024?logo=github)](https://github.com/Wrench/sstimap)
+
+
 
 > This project is based on [Tplmap](https://github.com/epinna/tplmap/).
 
