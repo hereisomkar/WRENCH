@@ -263,7 +263,6 @@ SSTImap supports multiple template engines and _eval()_-like injections.
 | Velocity                             | ✓   | ✓     | Java            | ✓         | ✓          |
 | Twig (>1.19 <2.0)                    | ×   | ×      | ×               | ×         | ×          |
 | Dust (> dustjs-helpers@1.5.0)        | ×   | ×      | ×               | ×         | ×          |
-|--------------------------------------|-----|--------|-----------------|-----------|------------|
 
 Future plans
 ------------
